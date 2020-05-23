@@ -1,5 +1,4 @@
-# APolQ
-Supporting Information for all of my recent and future publications.
+# Supporting Information for all of my recent and future publications.
 
 
 "A Simple Method for Including Polarization Effects in Solvation Free Energy Calculations When Using  Fixed--Charge Force Fields: Alchemically Polarized Charges." by Braden D. Kelly and William R. Smith, 2020 
