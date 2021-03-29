@@ -1,7 +1,7 @@
 # Supporting Information for all of my recent and future publications.
 
 
-A Simple Method for Including Polarization Effects in Solvation Free Energy Calculations When Using Fixed-Charge Force Fields: Alchemically Polarized Charges
+"A Simple Method for Including Polarization Effects in Solvation Free Energy Calculations When Using Fixed-Charge Force Fields: Alchemically Polarized Charges"
 Braden D. Kelly and William R. Smith
 ACS Omega 2020 5 (28), 17170-17181
 DOI: 10.1021/acsomega.0c01148
