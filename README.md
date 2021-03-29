@@ -1,9 +1,10 @@
 # Supporting Information for all of my recent and future publications.
 
 
-"A Simple Method for Including Polarization Effects in Solvation Free Energy Calculations When Using  Fixed--Charge Force Fields: Alchemically Polarized Charges." by Braden D. Kelly and William R. Smith, 2020 
-
-Currently available on chemRxiv https://doi.org/10.26434/chemrxiv.11522133.v1 
+A Simple Method for Including Polarization Effects in Solvation Free Energy Calculations When Using Fixed-Charge Force Fields: Alchemically Polarized Charges
+Braden D. Kelly and William R. Smith
+ACS Omega 2020 5 (28), 17170-17181
+DOI: 10.1021/acsomega.0c01148
 
 "Alchemical Hydration Free-Energy Calculations Using Molecular Dynamics with Explicit Polarization and Induced Polarity Decoupling: An On–the–Fly Polarization Approach" Braden D. Kelly and William R. Smith, Journal of Chemical Theory and Computation 2020 16 (2), 1146-1161, 
 DOI: 10.1021/acs.jctc.9b01139 
